@@ -28,7 +28,7 @@ const LocationSearch = () => {
     >
         <Stack sx={{
             borderRadius:20,pl:2 ,
-            backgroundColor:toggle?'grey':'white',
+            backgroundColor:toggle?'grey':'#ffffff',
         }}divider={<Divider orientation="vertical" flexItem/>}
         >
              {/* <Typography sx={{
