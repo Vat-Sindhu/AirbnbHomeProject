@@ -1,0 +1,45 @@
+
+    .maindiv__image1 {
+        height: 80px;
+        margin-left:50px;
+    }
+    .maindiv__ready{
+        float: right;
+        margin-right: 300px;
+       margin-top: 30px;
+       font-size: 20px;
+       font-family: Bold;
+    }
+    .maindiv__setup{
+        float: right;
+        margin-right: -400px;
+        margin-top: 20px;
+    }
+    
+    .maindiv__earn{
+        color: rgb(239, 49, 81);
+        font-size: 40px;
+        
+        margin-left:300px;
+        font-weight:600 ;
+    }
+    .maindiv__para{
+        color: black;
+        margin-left: -30px;
+        margin-top: -10px;
+    }
+    .maindiv__slider{
+        color: rgb(25, 21, 21);
+        margin-left: 220px;
+    }
+    .maindiv__number{
+        font-weight: 600;
+        font-size: 80px;
+        margin-left: 250px;
+    }
+    .maindiv__estimation{
+        margin-left: 270px;
+        font-size: 20px;
+        font-weight: 100;
+    }
+ 

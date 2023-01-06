@@ -1,0 +1,35 @@
+.learn {
+    border:1px solid black;
+    width:700px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 200px;
+    border-radius: 10px;
+    z-index: 1;
+    background-color:white;
+    position:fixed;
+ }
+ .learn img{
+    width:300px;
+    margin-left: 100px;
+    margin-top: 90px;
+    position: absolute;
+}
+.text{
+margin-right: 300px;
+font-size: x-large;
+ }
+.para{
+    font-size: small;
+}
+.para2{
+    font-size: large;
+    text-decoration:dashed;
+}
+.tryitbutton{
+    background-color: black;
+    padding: 10px;
+    color:white ;
+    border-radius: 5px;
+}
